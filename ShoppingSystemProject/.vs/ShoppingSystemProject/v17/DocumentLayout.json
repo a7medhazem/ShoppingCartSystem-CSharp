@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ShoppingSystemProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA58082-D979-41EE-ACB0-E9B9E161E70E}|ShoppingSystemProject\\ShoppingSystemProject.csproj|d:\\shoppingsystemproject\\shoppingsystemproject\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4CA58082-D979-41EE-ACB0-E9B9E161E70E}|ShoppingSystemProject\\ShoppingSystemProject.csproj|solutionrelative:shoppingsystemproject\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA58082-D979-41EE-ACB0-E9B9E161E70E}|ShoppingSystemProject\\ShoppingSystemProject.csproj|d:\\shoppingsystemproject\\shoppingsystemproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA58082-D979-41EE-ACB0-E9B9E161E70E}|ShoppingSystemProject\\ShoppingSystemProject.csproj|solutionrelative:shoppingsystemproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\ShoppingSystemProject\\ShoppingSystemProject\\README.md",
+              "RelativeDocumentMoniker": "ShoppingSystemProject\\README.md",
+              "ToolTip": "D:\\ShoppingSystemProject\\ShoppingSystemProject\\README.md",
+              "RelativeToolTip": "ShoppingSystemProject\\README.md",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-20T13:18:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ShoppingSystemProject\\ShoppingSystemProject\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingSystemProject\\Program.cs",
+              "ToolTip": "D:\\ShoppingSystemProject\\ShoppingSystemProject\\Program.cs",
+              "RelativeToolTip": "ShoppingSystemProject\\Program.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAswAABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:24:43.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

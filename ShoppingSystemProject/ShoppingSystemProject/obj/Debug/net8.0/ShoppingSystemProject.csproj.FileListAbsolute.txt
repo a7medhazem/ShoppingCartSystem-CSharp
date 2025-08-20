@@ -1,0 +1,14 @@
+D:\ShoppingSystemProject\ShoppingSystemProject\bin\Debug\net8.0\ShoppingSystemProject.exe
+D:\ShoppingSystemProject\ShoppingSystemProject\bin\Debug\net8.0\ShoppingSystemProject.deps.json
+D:\ShoppingSystemProject\ShoppingSystemProject\bin\Debug\net8.0\ShoppingSystemProject.runtimeconfig.json
+D:\ShoppingSystemProject\ShoppingSystemProject\bin\Debug\net8.0\ShoppingSystemProject.dll
+D:\ShoppingSystemProject\ShoppingSystemProject\bin\Debug\net8.0\ShoppingSystemProject.pdb
+D:\ShoppingSystemProject\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShoppingSystemProject\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.AssemblyInfoInputs.cache
+D:\ShoppingSystemProject\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.AssemblyInfo.cs
+D:\ShoppingSystemProject\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.csproj.CoreCompileInputs.cache
+D:\ShoppingSystemProject\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.dll
+D:\ShoppingSystemProject\ShoppingSystemProject\obj\Debug\net8.0\refint\ShoppingSystemProject.dll
+D:\ShoppingSystemProject\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.pdb
+D:\ShoppingSystemProject\ShoppingSystemProject\obj\Debug\net8.0\ShoppingSystemProject.genruntimeconfig.cache
+D:\ShoppingSystemProject\ShoppingSystemProject\obj\Debug\net8.0\ref\ShoppingSystemProject.dll
