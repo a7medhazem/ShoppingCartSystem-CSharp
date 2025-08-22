@@ -10,6 +10,7 @@ namespace ShoppingSystemProject
         // Storing user actions
         static public Stack<string> Actions = new Stack<string>();
 
+        // Store the last item name you want to remove or add
         static public string LastItem = "";
 
         // ItemsPrices contains all products with their names and prices
