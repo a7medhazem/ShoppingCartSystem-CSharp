@@ -61,6 +61,7 @@ namespace ShoppingSystemProject
                             UndoAction();
                             break;
                         case 6:
+                            //Exit from program
                             Environment.Exit(0);
                             break;
                         default:
@@ -139,7 +140,6 @@ namespace ShoppingSystemProject
             if (CartItems.Count == 0)
             {
                 Console.WriteLine("Cart is empty");
-
             }
             else
             {
@@ -152,11 +152,10 @@ namespace ShoppingSystemProject
                     Console.WriteLine("---------------------------------------------");
                 }
             }
-
         }
         private static IEnumerable<Tuple<string, double>> GetCartPrices()
         {
-            //storeprice for all products in cart
+            //store price for all products in cart
             var CartPrices = new List<Tuple<string, double>>();
 
             foreach (var item in CartItems)
@@ -174,7 +173,7 @@ namespace ShoppingSystemProject
 
         private static void RemoveItem()
         {
-            ViewCart();//print all items in card  
+            ViewCart();//print all items in card first  
 
             if (CartItems.Count == 0)
             {
@@ -209,7 +208,7 @@ namespace ShoppingSystemProject
             }
             else
             {
-                double TotalPrice = 0;
+                double TotalPrice = 0;//store all prices
 
                 Console.WriteLine("Your cart items are:");
                 Console.WriteLine("----------------------");
@@ -243,7 +242,6 @@ namespace ShoppingSystemProject
                 else if (LastActon.Contains("added"))
                 {
                     CartItems.Remove(LastItem);
-
                 }
                 else
                 {
